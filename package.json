@@ -1,0 +1,22 @@
+{
+  "name": "scriptwreq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joe-mcgee/scriptwreq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joe-mcgee/scriptwreq/issues"
+  },
+  "homepage": "https://github.com/Joe-mcgee/scriptwreq#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
